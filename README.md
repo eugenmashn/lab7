@@ -1,4 +1,4 @@
 # lab7
-# lab5
 
-![](scr1.png)
+
+![](scr2.png)
